@@ -1,1 +1,21 @@
-<img width="439" alt="data_model" src="https://github.com/jyoti-agnihotri/Jyoti-/assets/160401123/9d15f108-c391-4766-a851-2eaa12eadb12">
+
+Atliq Mart Supply Chain Analysis 
+
+Problem Statement 
+
+AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
+
+AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues. 
+
+Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task Create the metrics according to the metrics list.
+Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
+Create relevant insights not provided in the metric list/stakeholder meeting.  
+ 
+ 
+
+Dashboard Link : https://github.com/jyoti-agnihotri/Jyoti-/blob/main/agnihotri.pdf. 
+
+
+
+
+
