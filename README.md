@@ -13,7 +13,7 @@ Create relevant insights not provided in the metric list/stakeholder meeting.
  
  
 
-Dashboard Link : https://github.com/jyoti-agnihotri/Jyoti-/blob/main/agnihotri.pdf. 
+ Dashboard Link :https://www.novypro.com/profile_projects/jyoti-agnihotri- 
 
 
 
