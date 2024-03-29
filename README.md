@@ -13,7 +13,7 @@ Create relevant insights not provided in the metric list/stakeholder meeting.
  
  
 
- Dashboard Link :https://www.novypro.com/profile_projects/jyoti-agnihotri- 
+ Dashboard Link :https://www.novypro.com/project/atliq-mart-supply-chain-analysis--1
 
 
 
